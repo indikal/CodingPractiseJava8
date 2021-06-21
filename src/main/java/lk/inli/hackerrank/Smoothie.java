@@ -1,4 +1,4 @@
-package lk.inli.hackerrank.smoothie;
+package lk.inli.hackerrank;
 
 import java.util.Arrays;
 import java.util.Collections;

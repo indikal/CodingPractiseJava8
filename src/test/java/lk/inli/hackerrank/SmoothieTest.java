@@ -1,10 +1,10 @@
-package lk.inli.hackerrank.smoothie;
+package lk.inli.hackerrank;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotEquals;
 
-import lk.inli.hackerrank.smoothie.Smoothie.MenuType;
+import lk.inli.hackerrank.Smoothie.MenuType;
 import org.junit.Test;
 
 public class SmoothieTest {
